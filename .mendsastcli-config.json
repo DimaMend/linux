@@ -1,8 +1,10 @@
 {
   "scans": {
+    "engines": [12],
     "timeouts": {
       "perLanguage": 1440,
-      "perFile": 1440
+      "perFile": 1440,
+      "perScan": 1440
     }
   }
 }
